@@ -1,0 +1,6 @@
+{
+  "name": "MagnaFísica: Magnetismo & Campo Magnético",
+  "description": "Plataforma interativa e gamificada de física do ensino médio cobrindo propriedades dos ímãs, circuitos, campo terrestre e auroras, experimento de Oersted, condutores e cálculo de campo B com simuladores visuais e ranking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
